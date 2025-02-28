@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@aws-cdk/aws-amplify-alpha": "^2.39.1-alpha.0",
+    "@aws-sdk/client-secrets-manager": "^3.758.0",
     "aws-cdk-lib": "^2.180.0",
     "constructs": "^10.0.0",
     "esbuild": "^0.25.0"
